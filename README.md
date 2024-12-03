@@ -7,8 +7,6 @@
 
 ### 1. Cloning the repository
 ```bash
-mkdir -p ws/src
-cd ws/src
 git clone https://github.com/holmes24678/image_conversion_node.git
 ``` 
 ### 2. Build the workspace using colcon and source it
