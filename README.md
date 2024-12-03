@@ -11,6 +11,7 @@ git clone https://github.com/holmes24678/image_conversion_node.git
 ``` 
 ### 2. Build the workspace using colcon and source it
 ```bash
+cd image_conversion_node
 colcon build 
 source ./install/setup.bash 
 ```
