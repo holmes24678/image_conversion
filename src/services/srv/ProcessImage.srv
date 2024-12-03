@@ -1,0 +1,5 @@
+string mode #'gray_scale" or "color"
+---
+sensor_msgs/Image processed_image
+bool success
+string message
